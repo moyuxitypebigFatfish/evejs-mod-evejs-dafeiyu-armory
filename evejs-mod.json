@@ -1,0 +1,61 @@
+{
+  "author": {
+    "id": "au-mwo15tn5ydy0",
+    "keyId": "4606305c8b09",
+    "name": "神秘大肥鱼"
+  },
+  "category": "装备",
+  "changelog": "",
+  "conflicts": [],
+  "delisted": false,
+  "description": "自用私有军械库（影子型）：服务端内存覆盖 14766 的属性与名称，不新增 typeID；客户端中文名与市场库名由 tools/ 下的脚本同步，均可一键还原。",
+  "displayName": "大肥鱼氏改良型多谱式护盾增强器",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/moyuxitypebigFatfish/evejs-mod-evejs-dafeiyu-armory/releases/download/v1.2.0/evejs-dafeiyu-armory-1.2.0.zip"
+    }
+  ],
+  "evejsVersions": [
+    "261115.2"
+  ],
+  "featured": false,
+  "highlights": [
+    "名称大肥鱼改良型多谱式护盾增强器",
+    "描述",
+    "增加护盾抵抗所有类型伤害的能力。",
+    "惩罚：在一搜舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果",
+    "属性",
+    "启用耗电量         20.0GJ",
+    "结构值            40HP",
+    "体积            3m³",
+    "数量       1",
+    "超载增强器加成  50%",
+    "超载损耗     1HP",
+    "所需热力学等级    等级1"
+  ],
+  "history": [],
+  "id": "evejs-dafeiyu-armory",
+  "publishedAt": "2026-11-21",
+  "readme": [
+    "名称大肥鱼改良型多谱式护盾增强器",
+    "描述\n增加护盾抵抗所有类型伤害的能力。\n惩罚：在一搜舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果",
+    "属性\n启用耗电量         20.0GJ\n结构值            40HP\n体积            3m³\n数量       1\n超载增强器加成  50%\n超载损耗     1HP\n所需热力学等级    等级1\n作用时间/单次运转时间    30秒\n科技等级    等级1\n衍生等级      等级22\n伤害抗性加成 \n电磁伤害抗性加成\t-65%\n热能伤害抗性加成\t-65%\n动能伤害抗性加成\t-65%\n爆炸伤害抗性加成\t-65%",
+    "装配\n中级能量     需要中能量槽\nCPU使用量     15.0tf\n能量栅格占用     1.0MW",
+    "技能要求\n战术护盾操控I\n  能量栅格管理学III",
+    "工业\n按照埃斯塔梅尔多谱式护盾增强器装备需要的材料x0.5",
+    "装备图标就用原来的护盾左上角换上蓝色的死亡装备标记"
+  ],
+  "repo": "https://github.com/moyuxitypebigFatfish/evejs-mod-evejs-dafeiyu-armory",
+  "requiresRestart": true,
+  "sha256": "5c5cfca90c0fabd08c21f8231bdddeacfd8cdfb80c451df57187001a6a722bba",
+  "sizeBytes": 17950,
+  "tags": [
+    "装备",
+    "自定义",
+    "护盾",
+    "改名"
+  ],
+  "version": "1.2.0"
+}
