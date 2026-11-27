@@ -1,42 +1,42 @@
 {
   "author": {
-    "id": "au-mwo15tn5ydy0",
-    "keyId": "4606305c8b09",
+    "id": "au-mwxs4qg1v75i",
+    "keyId": "8596438f3c87",
     "name": "神秘大肥鱼"
   },
   "category": "玩法",
-  "changelog": "新增大肥鱼氏专属图标",
+  "changelog": "适配新版本3724492",
   "conflicts": [],
   "delisted": false,
   "description": "自用官员护盾增强器：不新建 typeID，借用 build 3396210 里已报废的槽位 77825（原 Jovian Symbolic Navigator），整行改写为威帕斯改良型 14766 的克隆——四抗 -65%、20GJ、30 秒、metaLevel 15，图标替换为该槽位独占的 wv_64_8.png（盾面女仆金盾）。服务端启动时自动完成客户端静态表（types/typedogma/本地化/贴图）、服务端 typeDogma+itemTypes+SDE、吉他 4-4 市场铺货，装完直接玩，不需要额外的补丁步骤；原版 14766 保持官方值。停用模组或跑 tools\\install.js --restore 可退回官方态。",
-  "displayName": "大肥鱼私有军械库",
+  "displayName": "大肥鱼氏改良型多谱式护盾增强器",
   "downloadUrls": [
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/moyuxitypebigFatfish/evejs-mod-evejs-dafeiyu-armory/releases/download/v1.5.2/evejs-dafeiyu-armory-1.5.2.zip"
+      "url": "https://github.com/moyuxitypebigFatfish/evejs-mod-evejs-dafeiyu-armory/releases/download/v1.5.3/evejs-dafeiyu-armory-1.5.3.zip"
     }
   ],
   "evejsVersions": [
-    "261115.2"
+    "261125.3"
   ],
   "featured": false,
   "highlights": [],
   "history": [],
   "id": "evejs-dafeiyu-armory",
-  "publishedAt": "2026-11-22",
+  "publishedAt": "2026-11-27",
   "readme": [
-    "自用官员护盾增强器「大肥鱼氏改良型多谱式护盾增强器」。装进启动器 → 启动服务端 → 进游戏，\n在吉他 4-4 市场就能买到，图标是金盾底 + 蓝发女仆那张图，属性和原版威帕斯改良型并排对照。"
+    "自用官员护盾增强器「大肥鱼氏改良型多谱式护盾增强器」。装进启动器 → 启动服务端 → 进游戏，\n在吉他 4-4 市场就能买到，图标沿用官方 25676，属性和原版威帕斯改良型并排对照。"
   ],
   "repo": "https://github.com/moyuxitypebigFatfish/evejs-mod-evejs-dafeiyu-armory",
   "requiresRestart": true,
-  "sha256": "6e08d9ae17c4993737c56b588547d8ac86c1974f94866ce029d71b670033d75d",
-  "sizeBytes": 11737542,
+  "sha256": "1ece5c710c2d1680291c2e22e46f44daac3e34294d3b37d72aae73e3ea86a436",
+  "sizeBytes": 12018379,
   "tags": [
     "装备",
     "护盾",
     "官员",
     "下载即用"
   ],
-  "version": "1.5.2"
+  "version": "1.5.3"
 }
